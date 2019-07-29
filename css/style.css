@@ -230,11 +230,15 @@ a:active {
 ====================================================*/  
   
    #about {
-      background-image: url(../img/about-me.jpg); 
+      background-image: url(../img/bg-stats.jpg); 
       background-size: cover;
       background-position: center center;
       background-repeat: no-repeat;
   }
+
+  .about-cover {
+    background-color: rgba(20, 20, 20, 0.770); 
+}
 
 /*==================================================
                     EXPERIENCE
