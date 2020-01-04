@@ -1,6 +1,6 @@
 # This is my Personal Portfolio site's source code
 
-Live link: http://zakaria.ga
+Live link: https://zakaria5729.github.io/portfolio-site/
 
 Hosted on https://zakaria5729.github.io/portfolio-site/
 
